@@ -13,7 +13,7 @@ R script called run_analysis.R that does the following:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-dplyr package is used to perform data manupulation
+dplyr package is used to perform data manipulation
 
 ## About data
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
